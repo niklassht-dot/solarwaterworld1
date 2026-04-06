@@ -1,0 +1,7 @@
+{
+  "name": "Solarwaterworld AG - Solar-Ahoi",
+  "description": "Emissionsfreie Solar-Schifffahrt in Berlin. Erleben Sie Berlin vom Wasser aus – nachhaltig, leise und klimaneutral.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
